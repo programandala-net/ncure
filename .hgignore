@@ -1,0 +1,6 @@
+syntax: glob
+
+*_session*.vim
+000-info.txt
+_meta
+target
