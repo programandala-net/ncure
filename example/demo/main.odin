@@ -1,7 +1,7 @@
 //+build ignore
 package main
 
-import ncure ".."
+import ncure "../.."
 import "core:strconv"
 import "core:time"
 import "core:fmt"
